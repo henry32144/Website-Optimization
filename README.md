@@ -6,7 +6,8 @@
 更動部分
 =====================================
 
-**index.html的優化**
+##index.html的優化
+
 1.將引用javascript的地方用async做異步處理
 
 2.異步加載google font
@@ -20,7 +21,8 @@
 6.壓縮css、html
 
 
-**pizza網頁的優化(main.js)**
+##pizza網頁的優化(main.js)
+
 1.使用getElementBy()系列 取代 querySelector() 系列，提升速度
 
 2.把changePizzaSizes()函數中導致強制同步的部分修正，把不必要的函數合併
