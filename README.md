@@ -6,7 +6,7 @@
 更動部分
 =====================================
 
-##index.html的優化
+## index.html的優化
 
 1.將引用javascript的地方用async做異步處理
 
@@ -21,7 +21,7 @@
 6.壓縮css、html
 
 
-##pizza網頁的優化(main.js)
+## pizza網頁的優化(main.js)
 
 1.使用getElementBy()系列 取代 querySelector() 系列，提升速度
 
